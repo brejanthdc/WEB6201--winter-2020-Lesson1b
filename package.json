@@ -1,0 +1,15 @@
+{
+  "name": "webd6201-lesson1b",
+  "version": "1.0.0",
+  "description": "webd6201 - Lesson 1 B example site",
+  "main": "index.js",
+  "repository": "https://github.com/brejanthdc/WEB6201--winter-2020-Lesson1b.git",
+  "author": "(Brejanth Rajendran <brejanth.rajendran@dcmail.ca> )",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.0",
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0"
+  }
+}
